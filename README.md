@@ -1,4 +1,4 @@
-![publish2](https://github.com/maanvith-sai/Carpooling/assets/124897184/536ed971-c578-4ed7-b377-48f609f17181)![publish1](https://github.com/maanvith-sai/Carpooling/assets/124897184/46396eb3-0774-4b8d-86ab-45d30d0634da)![Opening Image](https://github.com/maanvith-sai/Carpooling/assets/124897184/4678b92a-912c-4e4b-937e-1eb243a38b4b)
+![Opening Image](https://github.com/maanvith-sai/Carpooling/assets/124897184/4678b92a-912c-4e4b-937e-1eb243a38b4b)
 ![Main](https://github.com/maanvith-sai/Carpooling/assets/124897184/0f0356ed-ed9e-47eb-bc3a-bf2a8b23d57c)
 ![SignupPage](https://github.com/maanvith-sai/Carpooling/assets/124897184/0dd943e5-5662-4bae-bfad-6137cd63200b)
 ![extendedSignup](https://github.com/maanvith-sai/Carpooling/assets/124897184/521f5eda-0053-4900-8c7d-f1e4b38ce507)
