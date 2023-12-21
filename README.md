@@ -3,7 +3,7 @@ Download using this lnik given: [Link](https://drive.google.com/file/d/1KupVlO2R
 
 
 
-Some Snapshots of Carpooling Android Appliaction
+Some Snapshots of Carpooling Android Appliaction:
 
 ![Opening Image](https://github.com/maanvith-sai/Carpooling/assets/124897184/4678b92a-912c-4e4b-937e-1eb243a38b4b)
 ![Main](https://github.com/maanvith-sai/Carpooling/assets/124897184/0f0356ed-ed9e-47eb-bc3a-bf2a8b23d57c)
