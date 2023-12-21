@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735825184511",
+    "firebase_url": "https://carshare-maanvith27-default-rtdb.firebaseio.com",
+    "project_id": "carshare-maanvith27",
+    "storage_bucket": "carshare-maanvith27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735825184511:android:1f21f45cb463564a422eca",
+        "android_client_info": {
+          "package_name": "com.maanvith.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735825184511-qekrn7v05fld0dtq32o55jc2bqil4h81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASBmjp4MEj914dkxSz1xyQpSwWwkIJnKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735825184511-qekrn7v05fld0dtq32o55jc2bqil4h81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
